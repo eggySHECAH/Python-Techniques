@@ -1,0 +1,1 @@
+# spams text onto a specific file
