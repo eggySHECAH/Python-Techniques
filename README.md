@@ -1,2 +1,2 @@
-# Server File Spam
-        Spams 1mb files in the location of the file when run.
+# Python Techniques
+This project is now fully moved to <a href="https://gitea.pythonscratcher.net/g1gabyteDEV/Python-Techniques.git">PythonScratcher's Gitea</a>
